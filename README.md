@@ -1,122 +1,156 @@
+<!-- ==================== HEADER ==================== -->
+
+<p align="center">
+  <img src="https://github.com/bodirwat.png" width="160" height="160" style="border-radius: 50%; object-fit: cover;" alt="Tlabo Bodirwa" />
+</p>
+
+<h1 align="center">Hello! I'm Tlabo Bodirwa 👋</h1>
+
 <p align="center">
   <a href="https://github.com/bodirwat">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=954&text=Hello!%20I'm%20Tlabo%20Bodirwa%20%F0%9F%91%8B" alt="Hello! I'm Tlabo Bodirwa" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=750&lines=Computer+Systems+Engineer;Software+Developer;Data+Science+Enthusiast;Building+solutions+through+technology" alt="Typing introduction" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Computer%20Systems%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Science%20Enthusiast;Building%20solutions%20with%20code%2C%20exploring%20AI%20and%20turning%20data%20into%20insights." alt="Typing headlines" />
+  <a href="https://github.com/bodirwat">
+    <img src="https://img.shields.io/github/followers/bodirwat?label=Followers&style=for-the-badge&color=2ea043" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/bodirwat?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-8957e5?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bodirwat&style=for-the-badge&color=2ea043&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<table align="center">
+---
+
+## 🚀 About Me
+
+I'm a Computer Systems Engineering graduate passionate about software development, data science and technology.
+
+I enjoy designing and developing software solutions, working with databases, analysing data and exploring how emerging technologies can solve real-world problems.
+
+My interests extend beyond traditional software development into Artificial Intelligence, Machine Learning, Cloud Computing and DevOps.
+
+I'm a firm believer in continuous learning, practical experience and challenging myself to grow as a technology professional.
+
+- 🔭 **Currently working on:** Software development, automation and expanding my technical capabilities.
+- 🌱 **Currently learning:** Data Science, Machine Learning, Advanced Data Analytics and Industrial Engineering at Stellenbosch University.
+- 👯 **Looking to collaborate on:** Software engineering, AI, data science, automation and open-source projects.
+- 🎯 **Career interests:** Software Engineering, Data Engineering, Data Science and DevOps.
+- 💬 **Ask me about:** C#, ASP.NET Core, Python, SQL, databases and software development.
+- ⚡ **Fun fact:** I believe your qualifications define where you started, not how far you can go.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,html,css" alt="Programming languages" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,jquery,selenium,tensorflow,pytorch" alt="Frameworks and libraries" />
+</p>
+
+### Databases & Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,python" alt="Database and data science technologies" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,ubuntu,windows,docker,jenkins,vscode,visualstudio" alt="Cloud and development tools" />
+</p>
+
+### Other Technical Interests
+
+- Artificial Intelligence and Machine Learning
+- Data Analytics and Data Visualisation
+- REST API Development and Integration
+- Database Design and Data Modelling
+- CI/CD and Software Deployment
+- Software Testing and Automation
+- Embedded Systems and IoT
+
+---
+
+## 💻 What I'm Interested In
+
+<table>
   <tr>
-    <td align="center" valign="middle" width="220">
-      <!-- To use a different photo: upload it to this repo (e.g. profile.jpg) and change the src below to "profile.jpg" -->
-      <img src="https://github.com/bodirwat.png?size=400" width="180" height="180" alt="Tlabo Bodirwa" />
-      <br /><br />
-      <b>Tlabo Bodirwa</b><br />
-      <sub>Johannesburg, South Africa 🇿🇦</sub>
+    <td width="50%">
+      <h3>💻 Software Engineering</h3>
+      Building scalable applications, backend systems, APIs and practical software solutions.
     </td>
-    <td valign="middle">
-      <h3>🚀 About Me</h3>
-      Software developer and data analyst with a background in Computer Systems Engineering. I build ASP.NET Core and SQL-backed applications for the <b>City of Johannesburg</b>, automate data processing and reporting with <b>Python</b> and <b>SQL</b>, and I'm growing into <b>data science and machine learning</b> through a postgraduate diploma at <b>Stellenbosch University</b>.
-      <br /><br />
-      I enjoy solving real-world problems, improving processes through technology, and building the skills that bridge software engineering and data science.
+    <td width="50%">
+      <h3>📊 Data Science</h3>
+      Exploring data analysis, statistical modelling, machine learning and data-driven decision-making.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Artificial Intelligence</h3>
+      Exploring intelligent systems, automation and machine learning applications.
+    </td>
+    <td width="50%">
+      <h3>☁️ Cloud & DevOps</h3>
+      Learning cloud infrastructure, CI/CD pipelines, deployment automation and system reliability.
     </td>
   </tr>
 </table>
 
-### 🌍 What I'm Up To
+---
 
-🔭 &nbsp;**Working on:** property valuation systems at the City of Johannesburg (C#, ASP.NET Core MVC, SQL Server)  
-🌱 &nbsp;**Learning:** data science, machine learning and advanced analytics (Stellenbosch University), plus CI/CD and AWS  
-👯 &nbsp;**Collaborating on:** software development, AI, data science, automation and open-source projects  
-🤔 &nbsp;**Looking for help with:** cloud computing, DevOps, advanced software engineering and applying AI to real-world challenges  
-💬 &nbsp;**Ask me about:** C#, ASP.NET Core, Python, SQL, databases and data analytics  
-⚡ &nbsp;**Fun fact:** I built a drone that detects and follows faces in real time. I also believe your qualifications define where you started, not how far you can go.
-
-### 💼 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| **Late Objections & Appeals System** | Role-based web app for managing late valuation objections and appeals, with email notifications and reporting | C#, ASP.NET Core MVC, SQL Server |
-| **Internal Resource Booking System** | Scheduling app for shared resources with a relational design for bookings and availability | ASP.NET Core MVC, EF Core |
-| **Central Portal for System Links** | One place for staff to reach internal systems quickly | ASP.NET Core, HTML, CSS, JavaScript |
-| **Tello Drone Face Tracking** | Prototype that detects and follows faces in real time using computer vision | Python, Machine Learning |
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Web & Backend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-**Data Science & AI**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-</p>
-
-**Cloud, DevOps & Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-### 🎓 Education
-
-- **Postgraduate Diploma in Engineering (Industrial Engineering), Data Science focus**, Stellenbosch University (in progress, part-time)
-- **Advanced Diploma in Computer Systems Engineering**, Tshwane University of Technology
-- **National Diploma in Information Technology**, Tshwane University of Technology
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tlabo-bodirwa-5b1074221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://tlaboblog.s3.us-east-1.amazonaws.com/about.html"><img src="https://img.shields.io/badge/Website-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:tbbodirwa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=bodirwat&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bodirwat&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=bodirwat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ea043&icon_color=a371f7&rank_icon=github" alt="Tlabo's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bodirwat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ea043&langs_count=8" alt="Most used programming languages" />
 </p>
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bodirwat&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bodirwat&bg_color=0D1117&color=2ea043&line=a371f7&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity" />
 </p>
 
-### 💭 Dev Quote
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bodirwat&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub trophies" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/bodirwat">bodirwat</a></i></p>
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/bodirwat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/tlabo-bodirwa-5b1074221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  💡 Always learning. Always building. Always improving.
+</p>
+
+<p align="center">
+  <i>"The beautiful thing about learning is that nobody can take it away from you."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
