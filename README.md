@@ -1,6 +1,6 @@
- <p align="center">
+<p align="center">
   <a href="https://github.com/bodirwat">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=954&text=Hello!%20I'm%20Tlabo%20Bodirwa%20%F0%9F%91%8B" alt="Hello! I'm Tlabo Bodirwa 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=954&text=Hello!%20I'm%20Tlabo%20Bodirwa%20%F0%9F%91%8B" alt="Hello! I&#39;m Tlabo Bodirwa 👋" />
   </a>
 </p>
 
@@ -10,25 +10,14 @@
 
 ### 🚀 About Me
 
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-      I'm a Computer Systems Engineering graduate with a passion for software development, data analytics and technology. I enjoy solving real-world problems, building practical solutions and exploring how technology can improve the way things work.
+I'm a Computer Systems Engineering graduate with a passion for software development, data analytics and technology. I enjoy solving real-world problems, building practical solutions and finding ways to improve processes through technology. I have experience working with C#, ASP.NET Core, Python, SQL and database systems. I'm also passionate about continuous learning, personal growth and developing skills that bridge software engineering and data science.
 
-      I have experience working with C#, ASP.NET Core, Python, SQL and database systems. I'm continuously expanding my knowledge in software engineering and data science, with a growing interest in Artificial Intelligence, Machine Learning and DevOps.
-
-      🔭 &nbsp;I'm currently working on **Software development, automation and exploring innovative technology solutions.**  
-      🌱 &nbsp;I'm currently learning **Data Science, Machine Learning, Advanced Data Analytics and Industrial Engineering at Stellenbosch University.**  
-      👯 &nbsp;I'm looking to collaborate on **Software development, AI, data science, automation and open-source projects.**  
-      🤔 &nbsp;I'm looking for help with **Cloud computing, DevOps, advanced software engineering and applying AI to real-world challenges.**  
-      💬 &nbsp;Ask me about **C#, ASP.NET Core, Python, SQL, software development, databases and data analytics.**  
-      ⚡ &nbsp;Fun fact: **I believe your qualifications define where you started, not how far you can go. I'm always looking to learn something new and challenge myself.**
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="https://github.com/bodirwat.png" width="240" alt="Tlabo Bodirwa" />
-    </td>
-  </tr>
-</table>
+🔭 &nbsp;I'm currently working on **Building software solutions, improving technical skills and exploring innovative ways to solve problems through technology.**  
+🌱 &nbsp;I'm currently learning **Data Science, Machine Learning, Advanced Data Analytics and Industrial Engineering at Stellenbosch University.**  
+👯 &nbsp;I'm looking to collaborate on **Software development, AI, data science, automation and open-source projects.**  
+🤔 &nbsp;I'm looking for help with **Cloud computing, DevOps, advanced software engineering and applying AI to real-world challenges.**  
+💬 &nbsp;Ask me about **C#, ASP.NET Core, Python, SQL, software development, databases and data analytics.**  
+⚡ &nbsp;Fun fact: **I believe your qualifications define where you started, not how far you can go. I'm always looking to learn something new and challenge myself.**
 
 ### 🛠️ Tech Stack
 
