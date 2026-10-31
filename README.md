@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bodirwat">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=954&text=Hello!%20I'm%20Tlabo%20Bodirwa%20%F0%9F%91%8B" alt="Hello! I&#39;m Tlabo Bodirwa 👋" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=954&text=Hello!%20I'm%20Tlabo%20Bodirwa%20%F0%9F%91%8B" alt="Hello! I'm Tlabo Bodirwa" />
   </a>
 </p>
 
@@ -8,45 +8,95 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=900&height=44&lines=Computer%20Systems%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20Science%20Enthusiast;Building%20solutions%20with%20code%2C%20exploring%20AI%20and%20turning%20data%20into%20insights." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="220">
+      <!-- To use a different photo: upload it to this repo (e.g. profile.jpg) and change the src below to "profile.jpg" -->
+      <img src="https://github.com/bodirwat.png?size=400" width="180" height="180" alt="Tlabo Bodirwa" />
+      <br /><br />
+      <b>Tlabo Bodirwa</b><br />
+      <sub>Johannesburg, South Africa 🇿🇦</sub>
+    </td>
+    <td valign="middle">
+      <h3>🚀 About Me</h3>
+      Software developer and data analyst with a background in Computer Systems Engineering. I build ASP.NET Core and SQL-backed applications for the <b>City of Johannesburg</b>, automate data processing and reporting with <b>Python</b> and <b>SQL</b>, and I'm growing into <b>data science and machine learning</b> through a postgraduate diploma at <b>Stellenbosch University</b>.
+      <br /><br />
+      I enjoy solving real-world problems, improving processes through technology, and building the skills that bridge software engineering and data science.
+    </td>
+  </tr>
+</table>
 
-I'm a Computer Systems Engineering graduate with a passion for software development, data analytics and technology. I enjoy solving real-world problems, building practical solutions and finding ways to improve processes through technology. I have experience working with C#, ASP.NET Core, Python, SQL and database systems. I'm also passionate about continuous learning, personal growth and developing skills that bridge software engineering and data science.
+### 🌍 What I'm Up To
 
-🔭 &nbsp;I'm currently working on **Building software solutions, improving technical skills and exploring innovative ways to solve problems through technology.**  
-🌱 &nbsp;I'm currently learning **Data Science, Machine Learning, Advanced Data Analytics and Industrial Engineering at Stellenbosch University.**  
-👯 &nbsp;I'm looking to collaborate on **Software development, AI, data science, automation and open-source projects.**  
-🤔 &nbsp;I'm looking for help with **Cloud computing, DevOps, advanced software engineering and applying AI to real-world challenges.**  
-💬 &nbsp;Ask me about **C#, ASP.NET Core, Python, SQL, software development, databases and data analytics.**  
-⚡ &nbsp;Fun fact: **I believe your qualifications define where you started, not how far you can go. I'm always looking to learn something new and challenge myself.**
+🔭 &nbsp;**Working on:** property valuation systems at the City of Johannesburg (C#, ASP.NET Core MVC, SQL Server)  
+🌱 &nbsp;**Learning:** data science, machine learning and advanced analytics (Stellenbosch University), plus CI/CD and AWS  
+👯 &nbsp;**Collaborating on:** software development, AI, data science, automation and open-source projects  
+🤔 &nbsp;**Looking for help with:** cloud computing, DevOps, advanced software engineering and applying AI to real-world challenges  
+💬 &nbsp;**Ask me about:** C#, ASP.NET Core, Python, SQL, databases and data analytics  
+⚡ &nbsp;**Fun fact:** I built a drone that detects and follows faces in real time. I also believe your qualifications define where you started, not how far you can go.
+
+### 💼 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| **Late Objections & Appeals System** | Role-based web app for managing late valuation objections and appeals, with email notifications and reporting | C#, ASP.NET Core MVC, SQL Server |
+| **Internal Resource Booking System** | Scheduling app for shared resources with a relational design for bookings and availability | ASP.NET Core MVC, EF Core |
+| **Central Portal for System Links** | One place for staff to reach internal systems quickly | ASP.NET Core, HTML, CSS, JavaScript |
+| **Tello Drone Face Tracking** | Prototype that detects and follows faces in real time using computer vision | Python, Machine Learning |
 
 ### 🛠️ Tech Stack
+
+**Languages**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+**Web & Backend**
+
+<p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+**Data Science & AI**
+
+<p align="left">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
+**Cloud, DevOps & Tools**
+
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+### 🎓 Education
+
+- **Postgraduate Diploma in Engineering (Industrial Engineering), Data Science focus**, Stellenbosch University (in progress, part-time)
+- **Advanced Diploma in Computer Systems Engineering**, Tshwane University of Technology
+- **National Diploma in Information Technology**, Tshwane University of Technology
+
 ### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tlabo-bodirwa-5b1074221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tlaboblog.s3.us-east-1.amazonaws.com/about.html"><img src="https://img.shields.io/badge/Website-2ea043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:tbbodirwa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ### 📊 GitHub Stats
